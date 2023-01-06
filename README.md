@@ -11,7 +11,7 @@ This is my profile that I have designed and shared with you beautiful projects i
 
 
  <p align="center">
- - **Languages and Tools:**
+ - **Languages and Tools:** <br>
  <img src="https://icongr.am/devicon/html5-original-wordmark.svg? size=128&color=currentColor" alt="html" width="40" height="40"/>
  <img src= "https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css" width="40" height="40"/>
  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
