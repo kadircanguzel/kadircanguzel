@@ -10,7 +10,7 @@ This is my profile that I have designed and shared with you beautiful projects i
  </p>
 
 - **Languages and Tools:**
- <p align="left">
+ <p align="center">
  <img src="https://icongr.am/devicon/html5-original-wordmark.svg? size=128&color=currentColor" alt="html" width="40" height="40"/>
  <img src= "https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css" width="40" height="40"/>
  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
@@ -19,10 +19,6 @@ This is my profile that I have designed and shared with you beautiful projects i
  <img src="https://icongr.am/devicon/python-original.svg? size=128&color=currentColor" alt="python" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40" />
 </p>
-
-
-
-
 
 <p align="center">
  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=kadircanguzel&show_icons=true&theme=great-gatsby" alt="hpoyraz" />
