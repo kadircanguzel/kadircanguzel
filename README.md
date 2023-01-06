@@ -6,11 +6,6 @@ This is my profile that I have designed and shared with you beautiful projects i
 
 ⚡ How to reach me: https://www.linkedin.com/in/kadircan-g%C3%BCzel-0821001bb/
 
-### Hi,I'm Hüsna 👋
-
-- 🔭 I’m currently working on React and Java.
-- 🌱 I’m currently learning fulll stack development and test automation.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/h%C3%BCsna-poyraz/">LinkedIn</a>, <a href = "https://medium.com/@husnapoyraz88">Medium</a>
 - **Languages and Tools:**
  <p align="left">
  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/>
