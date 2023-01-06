@@ -1,4 +1,4 @@
-<h1 align="left"--->Hi<img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="30" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">, I'm Kadircan</h1>
+<h1 align="center"--->Hi<img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="30" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;">, I'm Kadircan</h1>
 
 This is my profile that I have designed and shared with you beautiful projects in the field of software.
 
