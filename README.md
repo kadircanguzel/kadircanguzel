@@ -15,8 +15,6 @@ This is my profile that I have designed and shared with you beautiful projects i
  <img src="https://icongr.am/devicon/csharp-original.svg? size=128&color=currentColor" alt="csharp" width="40" height="40"/>
  <img src="https://icongr.am/devicon/python-original.svg? size=128&color=currentColor" alt="python" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40" />
-          
-          
 </p>
 
 
