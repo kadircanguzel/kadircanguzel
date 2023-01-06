@@ -21,5 +21,6 @@ This is my profile that I have designed and shared with you beautiful projects i
 
 <p align="center">
 <img height='180px' src="https://github-readme-stats.vercel.app/api?username=kadircanguzel&show_icons=true&theme=great-gatsby" alt="kadircan" />
-<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadircanguzel&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+
+ <img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/ username=kadircanguzel&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
