@@ -13,7 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadircanguzel&show_icons=true&locale=en&layout=compact" alt="kadircanguzel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadircanguzel&show_icons=true&locale=en" alt="kadircanguzel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadircanguzel&" alt="kadircanguzel" /></p>
 
