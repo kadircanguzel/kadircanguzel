@@ -13,8 +13,12 @@
 
 
 <a href="https://github.com/kadircanguzel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadircanguzel" />
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadircanguzel&show_icons=true&theme=gruvbox)
+  
 </a>
 <a href="https://github.com/kadircanguzel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadircanguzel" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
