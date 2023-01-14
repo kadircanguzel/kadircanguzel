@@ -13,9 +13,9 @@
 
 
 <p>
-<img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kadircanguzel&langs_count=8&layout=compact)" />
+<img align="center" src="</p>" />
 </p>
 
 <p>
-<img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api?username=kadircanguzel&show_icons=true&theme=radical)" />
+<img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=kadircanguzel&langs_count=8&layout=compact)" />
 </p>
