@@ -17,7 +17,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadircanguzel&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt&line_height=30" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadircanguzel&show_icons=true&include_all_commits=true&count_private=true&theme=merko&line_height=30" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadircanguzel&theme=react&line_height=40&hide=css"/>
