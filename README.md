@@ -20,7 +20,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadircanguzel&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=30" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kadircanguzel&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=35" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kadircanguzel&theme=radical&line_height=40&hide=css"/>
